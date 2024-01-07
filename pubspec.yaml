@@ -1,7 +1,9 @@
 name: review_manager
 description: "A simple plugin to show native store review dialogs."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Abedalkareem/review_manager
+repository: https://github.com/Abedalkareem/review_manager
+issue_tracker: https://github.com/Abedalkareem/review_manager/issues
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
